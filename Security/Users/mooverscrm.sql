@@ -1,0 +1,2 @@
+CREATE USER [mooverscrm] WITHOUT LOGIN
+GO

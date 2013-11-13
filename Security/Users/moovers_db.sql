@@ -1,0 +1,2 @@
+CREATE USER [moovers_db] WITHOUT LOGIN
+GO
